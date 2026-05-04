@@ -1,1 +1,1 @@
-salary calculator for 2026
+Currency converter Convex on GitHub Pages This folder is ready to publish as a static GitHub Pages site. Files index.html — the Convex live currency converter app README.md — deployment steps Publish steps Create a new GitHub repository. Upload index.html and README.md. Commit to the main branch. In GitHub, open Settings → Pages. Under Build and deployment, choose Deploy from a branch. Select the main branch and the / (root) folder. Save and wait for GitHub Pages to publish. Your site URL will be: https://YOUR-USERNAME.github.io/REPO-NAME/
